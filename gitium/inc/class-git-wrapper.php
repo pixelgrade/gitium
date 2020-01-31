@@ -88,6 +88,8 @@ wp-includes/
 .DS_Store
 __MACOSX
 .idea
+/local-adminer-*
+/local-phpinfo.php
 wp-content/plugins/data-vault-shop/
 wp-content/plugins/elasticsearch-kb/
 wp-content/plugins/elasticsearch-products/
